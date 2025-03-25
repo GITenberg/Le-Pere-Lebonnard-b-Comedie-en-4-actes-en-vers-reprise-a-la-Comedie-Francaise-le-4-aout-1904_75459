@@ -1,5 +1,8 @@
 _repo: Le-Pere-Lebonnard-b-Comedie-en-4-actes-en-vers-reprise-a-la-Comedie-Francaise-le-4-aout-1904_75459
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75459-h/images/cover.jpg
 creator:
   author:
     agent_name: Aicard, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Aicard
     - https://fr.wikipedia.org/wiki/Jean_Aicard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75459#Le-Pere-Lebonnard-b-Comedie-en-4-actes-en-vers-reprise-a-la-Comedie-Francaise-le-4-aout-1904
 gutenberg_issued: '2025-02-24'
 gutenberg_type: Text
 identifiers:
